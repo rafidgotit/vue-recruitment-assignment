@@ -31,7 +31,11 @@ yarn install
 
 ### 4. Run the Development Server
 
-Start the development server using the appropriate command. This will start the server, and you can view the application in your browser at `http://localhost:3000`.
+Start the development server using the appropriate command. 
+```
+yarn dev
+```
+This will start the server, and you can view the application in your browser at `http://localhost:3000`.
 
 ## Your Task
 
@@ -42,15 +46,7 @@ Start the development server using the appropriate command. This will start the 
 - **Bug Fixes**: Identify and fix any bugs present in the code. This could be related to functionality, performance, or any errors you encounter.
 - **UI Improvements**: Enhance the user interface to make it more intuitive and visually appealing. Use your creativity, but keep it user-friendly.
 
-### 2. Instruction to Test
-
-Run the following command to test your code on your machine
-
-```
-yarn dev
-```
-
-### 3. How to Submit
+### 2. How to Submit
 
 Once you've made your changes, commit them to your forked repository and push the changes to GitHub. Then, create a pull request to the original repository.
 
